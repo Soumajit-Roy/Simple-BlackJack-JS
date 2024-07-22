@@ -16,12 +16,12 @@ body {
 }
 h1 {
     color: goldenrod;
-    font-size: 4vw;
+    font-size: 4rem;
 }
 
 p {
     font-weight: bold;
-    font-size: 2vw;
+    font-size: 2rem;
 }
 p, h1 {
     text-align: center;
