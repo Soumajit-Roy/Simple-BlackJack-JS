@@ -3,17 +3,25 @@ body {
     "Lucida Sans", Arial, sans-serif;
     background-image: url(table.jpg);
     background-size: cover;
-    color: azure;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-
+.container {
+    background-color: rgba(5, 40, 48, 0.544);
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 5px black;
+}
 h1 {
-  color: goldenrod;
-  font-size: 8vw;
+    color: goldenrod;
+    font-size: 4vw;
 }
 
 p {
     font-weight: bold;
-    font-size: 4vw;
+    font-size: 2vw;
 }
 p, h1 {
     text-align: center;
